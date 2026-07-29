@@ -1,0 +1,3 @@
+FUNCTION HB_VERSION()
+
+RETURN "HBCrypto 0.1.0"

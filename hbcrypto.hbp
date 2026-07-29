@@ -1,0 +1,9 @@
+-inc
+
+-Iinclude
+
+src/core/hbversion.cpp
+src/core/hberror.cpp
+src/core/hbbuffer.cpp
+
+harbour/hbcrypto.prg
