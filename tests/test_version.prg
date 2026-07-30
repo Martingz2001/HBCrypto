@@ -1,5 +1,0 @@
-PROCEDURE Main()
-
-   ? HB_VERSION()
-
-RETURN
